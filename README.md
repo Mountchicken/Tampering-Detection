@@ -5,7 +5,7 @@
 - 1.先将除app1.mlap以外的其它m函数导入进matlab的函数路径中，若不会导入，可依次运行每个函数即可。
 - 2.成功导入函数后，运行app1.mlap即可使用该软件
 # Image
--![image]()
+-![image](https://github.com/Mountchicken/Tampering-Detection/blob/main/%E6%8D%95%E8%8E%B74.JPG)
 # How to use ：
 - 1.两个loding既是载入图片
 - 2.linewidth设置选框线宽
